@@ -1,6 +1,6 @@
 cask "tungsten" do
-  version "1.7.0"
-  sha256 "bc10abd8479bf2f2c6537e5b270a6fedb8ad61d0cf1e0c8bd35516bdc4b378de"
+  version "1.7.1"
+  sha256 "b48166f97761a462b32c3846970d11c84748b07a8483fec40bb17dcc408ed744"
 
   url "https://github.com/imkkapoor/tungsten.wtf/releases/download/v#{version}/Tungsten-#{version}-arm64.dmg"
   name "Tungsten"
